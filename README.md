@@ -29,6 +29,8 @@ I apply these technologies in personal and college projects, enhancing my progra
 <br/>
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>  
 
 🚀 Let's connect! Hit me up for collabs, chats, or just to share some tech excitement.
