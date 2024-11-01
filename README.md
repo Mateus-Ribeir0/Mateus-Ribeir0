@@ -5,18 +5,23 @@ I'm Mateus, a tech enthusiast who recently made the jump from customer success t
 From solving problems to perfecting details, my time in customer success gives me an edge in tech. Join me on this GitHub journey as I learn, code, and geek out over the latest tech trends.
 <br/><br/>
 
-<div align="center">
-  
-  <!-- Estatísticas do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mateus-Ribeir0&show_icons=true&theme=dracula&count_private=true" alt="Mateus Ribeiro GitHub stats" style="margin-bottom: 20px;">
-  
-  <!-- Streak de Contribuições -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mateus-Ribeir0&theme=dracula" alt="Mateus Ribeiro Streak" style="margin-bottom: 20px;">
-  
-  <!-- Linguagens mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Ribeir0&theme=dracula&show_icons=true&layout=compact" alt="Linguagens Mais Usadas">
-  
-</div>
+<!-- Tabela centralizada para alinhamento mais consistente -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mateus-Ribeir0&show_icons=true&theme=dracula&count_private=true" alt="Mateus Ribeiro GitHub stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mateus-Ribeir0&theme=dracula" alt="Mateus Ribeiro Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Ribeir0&theme=dracula&show_icons=true&layout=compact" alt="Linguagens Mais Usadas" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## Technologies I use in my day
