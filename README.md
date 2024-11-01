@@ -8,19 +8,20 @@ From solving problems to perfecting details, my time in customer success gives m
 <!-- Tabela centralizada para alinhamento mais consistente -->
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" style="background-color: transparent;">
       <img src="https://github-readme-stats.vercel.app/api?username=Mateus-Ribeir0&show_icons=true&theme=dracula&count_private=true" alt="Mateus Ribeiro GitHub stats" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mateus-Ribeir0&theme=dracula" alt="Mateus Ribeiro Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td align="center" style="background-color: transparent;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Ribeir0&theme=dracula&show_icons=true&layout=compact" alt="Linguagens Mais Usadas" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" style="background-color: transparent;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mateus-Ribeir0&theme=dracula" alt="Mateus Ribeiro Streak" />
+    </td>
+  </tr>
 </table>
+
 
 
 
